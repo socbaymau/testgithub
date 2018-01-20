@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.directoryEntry1 = new System.DirectoryServices.DirectoryEntry();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -55,5 +56,6 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.DirectoryServices.DirectoryEntry directoryEntry1;
     }
 }
