@@ -16,7 +16,7 @@ namespace testgithub
         {
             InitializeComponent();
             MessageBox.Show("Test");
-            MessageBox.Show("TestTrung");
+            MessageBox.Show("TestNho");
         }
     }
 }
