@@ -15,6 +15,7 @@ namespace testgithub
         public Form2()
         {
             InitializeComponent();
+            MessageBox.Show("Test");
         }
     }
 }
